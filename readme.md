@@ -2,7 +2,7 @@
 
 ## YOUTUBE
 
-![Sin titulo](assets/images/image.png)
+![Sin titulo](assets/images/home.png)
 
 |       UX      |       UI      |
 | ------------- | ------------- |
