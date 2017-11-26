@@ -11,4 +11,4 @@
 | poder poner un video en una seccion: VER MÁS TARDE | diseño de la página del usuario (canal) |
 | subcribirme a un canal para recibir notificaciones y ver ultimos videos subidos | botones se subtitulos , volumen y más en el video |
 | sección de tendencia para ver videos populares | botones de suscribirse, me gusta, campana, compartir fera del video |
-| seccion de historial para todos los videos reproducidos | diseño en que se muestran los comentarios |
+| seccion de historial para ver todos los videos reproducidos | diseño en que se muestran los comentarios |
