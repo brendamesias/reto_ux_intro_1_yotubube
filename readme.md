@@ -1,6 +1,7 @@
 ### 1. Elige una web de tu preferencia y explica qué partes conforman el UX y qué partes el UI
 
 ## YOUTUBE
+
 ![Sin titulo](assets/images/image.png)
 
 |       UX      |       UI      |
